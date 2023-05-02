@@ -6,3 +6,6 @@ The game was initially written in Mode 1 wiith 24 Alien Jelly's instead of the 1
 There was a few panic moments when I RENUMBER the .bas file a few time and typed LIST only to see most of my programme gone. (There were numbered lines with blank spaces.
 I was able to recover my file through the use of the .bak file.
 
+## Controls
+
+Left and right arrow to move the player, space to fire.
